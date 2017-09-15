@@ -9,5 +9,5 @@ This project was created due to the lack of a quick-paced sniping mod in iw4x.
 Extract the zip file and copy the sniper folder to ..//PathToGame/mods/
 
 ## Contributors
-Special thanks to Santahunter, tccr, and Raidmax for helping me on this project.
+Special thanks to Santahunter for contributing code to this project. I also want to recognize tccr and raidmax for helping me with iw4x related issues.
 
