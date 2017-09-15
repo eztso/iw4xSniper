@@ -5,6 +5,9 @@ The mod is written in Activision's gsc language, which is similar to C.
 ## Motivation
 This project was created due to the lack of a quick-paced sniping mod in iw4x.
 
+##Installation
+Extract the zip file and copy the sniper folder to ..//PathToGame/mods/
+
 ## Contributors
 Special thanks to Santahunter, tccr, and Raidmax for helping me on this project.
 
